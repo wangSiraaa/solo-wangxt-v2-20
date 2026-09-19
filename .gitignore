@@ -23,3 +23,8 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# project artifacts
+gallery.db
+backend/storage/
+frontend/dist/
